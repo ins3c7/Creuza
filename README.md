@@ -1,6 +1,8 @@
 # Creuza
 [A.I.C.C.B.] - Artificial Intelligence Conversation Creuza Bot
 
+![alt tag](http://i.imgur.com/UDBpwjl.png)
+
 ## Installation
 ```
 $ git clone https://github.com/ins3c7/Creuza/
