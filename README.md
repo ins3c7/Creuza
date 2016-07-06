@@ -18,6 +18,7 @@ $ ./ia.py
 ```
 > #add
 ```
-
 **Use**: *LIST WORDS OF QUESTION* /// **ANSWER_1** # **ANSWER_2** # **ANSWER_3** *(etc...)*
 
+* Example:
+![alt tag](http://i.imgur.com/k8DL9DF.png)
