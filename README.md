@@ -3,7 +3,13 @@
 
 ## Installation
 ```
-$ sudo pip -r requeriments.txt
+$ git clone https://github.com/ins3c7/Creuza/
+
+# pip -r requeriments.txt
+
+$ chmod +x ia.py
+
+$ ./ia.py
 ```
 
 ## Learning
