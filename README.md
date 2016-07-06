@@ -22,3 +22,5 @@ $ ./ia.py
 
 #### Example:
 ![alt tag](http://i.imgur.com/k8DL9DF.png)
+
+*EoF.*
