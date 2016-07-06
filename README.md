@@ -17,5 +17,5 @@ $ ./ia.py
 > #add
 ```
 
-Use: LIST WORDS OF QUESTION /// ANSWER_1 # ANSWER_2 # ANSWER_3 (etc...)
+**Use**: *LIST WORDS OF QUESTION* /// **ANSWER_1** # **ANSWER_2** # **ANSWER_3** *(etc...)*
 
